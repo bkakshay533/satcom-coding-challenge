@@ -1,8 +1,13 @@
 Task Management API
+
+
 Tech Stack
+
 Java 17
 Spring Boot
 Gradle
+
+
 How to Run
 Clone the repo
 Run:
